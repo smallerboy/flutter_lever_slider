@@ -1,10 +1,10 @@
 name: flutter_lever_slider
-description: A Simple silder for finance
+description: A Simple slider for finance
 version: 0.0.1
 homepage:
 
 environment:
-  sdk: '>=2.18.2 <3.0.0'
+  sdk: ">=2.2.2 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
